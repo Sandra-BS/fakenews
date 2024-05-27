@@ -21,3 +21,10 @@ Frontend: HTML, CSS, JavaScript
 Backend: Django (Python)
 
 Database: MySQL
+
+![image1](https://github.com/Sandra-BS/fakenews/assets/170923288/7248b24d-c753-4224-aa54-8071c499f541)
+![image2](https://github.com/Sandra-BS/fakenews/assets/170923288/754f091a-fc76-470f-93de-2163b6d87a16)
+![image3](https://github.com/Sandra-BS/fakenews/assets/170923288/237fb273-757f-4d93-9bd6-9718e9358489)
+![image4](https://github.com/Sandra-BS/fakenews/assets/170923288/bea0b655-eef6-4ea0-bc75-97aabb36c27b)
+![image5](https://github.com/Sandra-BS/fakenews/assets/170923288/7c417eda-ea06-49a3-9211-76df180b0fe2)
+
